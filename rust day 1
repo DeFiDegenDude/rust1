@@ -1,0 +1,7 @@
+fn main() {
+    println!("This is the Rust 1");
+    {
+let x = 10
+print("{0}", x)
+}
+}
