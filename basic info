@@ -1,2 +1,5 @@
+fn main() {
 //this is a comment
 /* this is also a comment end it with this --> */
+println!("this is a print line function");
+}
