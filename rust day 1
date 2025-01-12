@@ -1,7 +1,9 @@
 fn main() {
-    println!("This is the Rust 1");
+    println!("This is Rust 1");
+    let x = 5;
     {
-let x = 10
-print("{0}", x)
-}
+    let x = 10;
+    println!("{0}", x);
+    }
+    println!("{}", x);
 }
